@@ -1,5 +1,1 @@
-# hello-world
-First Repository for Riddle
-Hi
-Testing out branches in repositories
-Deleting
+What five-letter word becomes shorter when you add two letters to it?
